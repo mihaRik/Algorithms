@@ -2,6 +2,7 @@ using System;
 
 namespace Algorithms
 {
+    // solution for https://leetcode.com/problems/max-points-on-a-line
     public static class max_points_on_a_line
     {
         public static void RunTestCases()

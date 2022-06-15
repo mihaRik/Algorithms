@@ -2,6 +2,7 @@ using System;
 
 namespace Algorithms
 {
+    //solution for https://leetcode.com/problems/coordinate-with-maximum-network-quality
     public static class coordinate_with_maximum_network_quality
     {
         public static void RunTestCases()

@@ -2,6 +2,7 @@ using System;
 
 namespace Algorithms
 {
+    //solution for https://leetcode.com/problems/string-to-integer-atoi
     public class string_to_integer_atoi
     {
         public static void RunTestCases()
